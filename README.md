@@ -1,4 +1,4 @@
 # tmsupport
 Tag Manager Support
 
-Handy stuff for daily GTM stuff
+Handy code for daily Tag Manager work
